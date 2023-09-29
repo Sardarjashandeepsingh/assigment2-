@@ -1,0 +1,14 @@
+/*Jashandep Singh 8869931*/
+body
+{
+    height : 100vh;
+    width : 100vw;
+    background-color: hsla(290, 90%, 49%, 0.922);
+    font: italic small-caps bold 12px/30px Georgia, serif;
+    padding: 2em;
+}
+h2
+{
+color: rgb(28, 237, 20);
+font-size: 2rem;
+}
